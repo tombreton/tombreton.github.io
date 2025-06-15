@@ -13,4 +13,9 @@ A GitHub profile README is like a digital business card- it shows who you are an
 
  ## Step 1: Create the Repository
 
- 1. Click the plus sign (+) in the upper-right corner of the GitHub page. 
+ 1. Click the plus sign (+) in the upper-right corner of the GitHub page.
+![Plus Icon](tombreton.github.io/myprofile.png)
+
+
+
+
