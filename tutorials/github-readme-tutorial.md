@@ -13,14 +13,14 @@ A GitHub profile README is like a digital business card- it shows who you are an
 
  ## Step 1: Create the Repository
 
-1. Click the plus sign (+) in the upper-right corner of the GitHub page. ![Plus Icon](plusicon.png)
-2. Click **New Repository**
-3. Type a repository name identical to your username (e.g., 'tombreton' for username 'tombreton'). This is not case-sensitive and ensures the README appears on your profile page.
+1. Click the plus sign (+) in the upper-right corner of the GitHub page. ![Plus Icon](https://tombreton.github.io/images/plusicon.png)
+3. Click **New Repository**
+4. Type a repository name identical to your username (e.g., 'tombreton' for username 'tombreton'). This is not case-sensitive and ensures the README appears on your profile page.
    ![Repository Name](repository name sample.png)
-4. Write a clear, concise overview of your profile in the description field to make your README appealing, such as "My GitHub profile showcasing coding projects and hobbies!"
-5. Select **Public** to make your README visible to everyone. Then check **Initialize this repository with a README**.
+5. Write a clear, concise overview of your profile in the description field to make your README appealing, such as "My GitHub profile showcasing coding projects and hobbies!"
+6. Select **Public** to make your README visible to everyone. Then check **Initialize this repository with a README**.
    ![Public and Initialize](images/public.png)
-6. Click **Create Repository**, and your new repository page will appear.
+7. Click **Create Repository**, and your new repository page will appear.
 
 ## Step 2: Edit the README
 
