@@ -44,8 +44,9 @@ A GitHub profile README is like a digital business card- it shows who you are an
 
 ## Troubleshooting
 
--If your README doesn't show on your profile, check that the repository name matches your username exactly.
--Ensure the repository is set to **Public**, not **Private**.
+If your README doesn't show on your profile, check that the repository name matches your username exactly.
+
+Ensure the repository is set to **Public**, not **Private**.
 
 ## Get Creative
 
