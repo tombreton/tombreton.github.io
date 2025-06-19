@@ -31,7 +31,7 @@ A GitHub profile README is like a digital business card- it shows who you are an
    ![Pen Icon](/images/penicon.PNG)
 2. You'll see several lines of text in the edit view. The first line should say ## Hi There, but it might differ if GitHub changes the default README content.
    ![Default README](/images/hitheredefaultreadme.PNG)
-3. The ### before "Hi there" controls the text size in Markdown, a simple programming language that's easy for beginners to learn. Changing the number of '#'s changes the heading size: '#' is the largest (like a title), '##' is medium (like a subtitle), and '###' is small (like a subheading). Check [GitHub's Markdown Guide](https://docs.github/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github) for more tips. Change the line to '#Howdy Y'all!'
+3. The ## before "Hi there" controls the text size in Markdown, a simple programming language that's easy for beginners to learn. Changing the number of '#'s changes the heading size: '#' is the largest (like a title), '##' is medium (like a subtitle), and '###' is small (like a subheading). Check [GitHub's Markdown Guide](https://docs.github/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github) for more tips. Change the line to '#Howdy Y'all!'
    ![Preview View](/images/howdy.png)
 4. Click *Preview* above the editing area to see how the text looks. Feel free to change the text or heading size. Preview your changes anytime.
    ![Preview View](/images/previewpreview.PNG) 
