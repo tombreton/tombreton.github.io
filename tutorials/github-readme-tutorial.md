@@ -19,7 +19,7 @@ A GitHub profile README is like a digital business card- it shows who you are an
     ![New Repository](/images/newrepository.PNG)
 3. Type a repository name identical to your username (e.g., 'tombreton' for username 'tombreton'). This is not case-sensitive and ensures the README appears on your profile page.
   
-   ![Repository Name](/images/repositoryname.png)
+   ![Repository Name](/images/createnewrepository.png)
 4. Write a clear, concise overview of your profile in the description field to make your README appealing, such as "My GitHub profile showcasing coding projects and hobbies!"
 5. Select **Public** to make your README visible to everyone. Then check **Initialize this repository with a README**.
    ![Public and Initialize](/images/public.png)
@@ -29,8 +29,8 @@ A GitHub profile README is like a digital business card- it shows who you are an
 
 1. To edit, click the pen icon next to the 'README.md' file on the repository page.
    ![Pen Icon](/images/penicon.PNG)
-2. You'll see several lines of text in the edit view. The first line should say ### Hi There, but it might differ if GitHub changes the default README content.
-   ![Default README](/images/defaultreadme.png)
+2. You'll see several lines of text in the edit view. The first line should say ## Hi There, but it might differ if GitHub changes the default README content.
+   ![Default README](/images/hitheredefaultreadme.PNG)
 3. The ### before "Hi there" controls the text size in Markdown, a simple programming language that's easy for beginners to learn. Changing the number of '#'s changes the heading size: '#' is the largest (like a title), '##' is medium (like a subtitle), and '###' is small (like a subheading). Check [GitHub's Markdown Guide](https://docs.github/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github) for more tips. Change the line to '#Howdy Y'all!'
    ![Preview View](/images/howdy.png)
 4. Click *Preview* above the editing area to see how the text looks. Feel free to change the text or heading size. Preview your changes anytime.
