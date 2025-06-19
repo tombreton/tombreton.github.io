@@ -39,7 +39,7 @@ A GitHub profile README is like a digital business card- it shows who you are an
 6. When happy with your README, click **Commit changes**, then confirm in the pop-up. In GitHub, "commit" means save your changes.
    ![Commit Changes](/images/commitchanges.PNG)
    ![Commit Again](/images/commitagain.png)
-8. Click your profile picture in the top-right corner to view your new profile page! It may take a few seconds to appear.
+7. Click your profile picture in the top-right corner to view your new profile page! It may take a few seconds to appear.
    ![Final Profile](/images/myprofile.png)
 
 ## Troubleshooting
